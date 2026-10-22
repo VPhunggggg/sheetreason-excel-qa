@@ -1,0 +1,8 @@
+**
+!Dockerfile
+!requirements.txt
+!main.py
+!excelqa.py
+!scripts/
+!scripts/__init__.py
+!scripts/validate_submission.py
