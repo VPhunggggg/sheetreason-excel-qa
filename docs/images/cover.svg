@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" role="img" aria-labelledby="title description">
+  <title id="title">SheetReason — LANGUAGE &amp; DATA</title>
+  <desc id="description">Ask in natural language. Answer with executable evidence. An original project cover in a coordinated dark and orange portfolio series.</desc>
+  <rect width="1280" height="420" rx="12" fill="#0D1117"/>
+  <rect x=".5" y=".5" width="1279" height="419" rx="12" fill="none" stroke="#30363D"/>
+  <g transform="translate(0,0)">
+    <path d="M48 49h28" stroke="#F0883E" stroke-width="3"/>
+    <g font-family="Consolas, 'Liberation Mono', monospace" font-size="15" letter-spacing="1.4">
+      <text x="92" y="55" fill="#B1BAC4">02 / LANGUAGE &amp; DATA</text>
+      <text x="1232" y="55" text-anchor="end" fill="#8B949E">NVP. / PROJECT SERIES</text>
+    </g>
+    <path d="M48 83h1184M48 334h1184M850 116v180" stroke="#30363D"/>
+    <g font-family="'Segoe UI', Arial, sans-serif">
+      <text x="45" y="181" fill="#E6EDF3" font-size="76" font-weight="600" letter-spacing="-2.5">SheetReason</text>
+      <text x="49" y="231" fill="#B1BAC4" font-size="25">Ask in natural language.</text>
+      <text x="49" y="267" fill="#B1BAC4" font-size="25">Answer with executable evidence.</text>
+    </g>
+    <g transform="translate(909,105)" stroke-linecap="round">
+    <rect x="16" y="10" width="238" height="151" rx="9" fill="#161D26" stroke="#8B949E"/>
+    <path d="M16 41h238" stroke="#8B949E"/>
+    <g fill="#8B949E"><circle cx="31" cy="26" r="3"/><circle cx="42" cy="26" r="3"/><circle cx="53" cy="26" r="3"/></g>
+    <path d="M65 42v118m58-118v118m58-118v118M17 72h236M17 101h236M17 131h236" stroke="#30363D"/>
+    <rect x="66" y="73" width="115" height="57" fill="#F0883E" fill-opacity=".12" stroke="#F0883E" stroke-width="2"/>
+    <path d="M82 87h23m33 0h26m-82 28h23m33 0h26M81 57h26m31 0h26m31 0h38" stroke="#8B949E" stroke-width="2"/>
+    <rect x="164" y="121" width="107" height="65" rx="8" fill="#0D1117" stroke="#F0883E" stroke-width="2"/>
+    <path d="m188 140-10 10 10 10m58-20 10 10-10 10m-37 0 8 8 16-22" stroke="#F0883E" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/></g>
+    <text x="49" y="376" fill="#8B949E" font-family="Consolas, 'Liberation Mono', monospace" font-size="15" letter-spacing=".6">LLM REASONING  /  PYTHON  /  EXCEL</text>
+    <path d="M1195 375h35m-10-10 10 10-10 10" stroke="#F0883E" fill="none" stroke-width="2"/>
+  </g>
+</svg>
